@@ -1,7 +1,10 @@
 deployment
 development
+google-dev-credentials
 interviews
 opsmanual
 pp-deployment
 pp-manual
+pp-pilotis
 puppet
+router-data
