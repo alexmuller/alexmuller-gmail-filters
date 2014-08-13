@@ -20,6 +20,7 @@ pp-puppet
 pp-smokey
 release
 screenshot-as-a-service
+shower-gds
 showtime
 smokey
 spotlight
